@@ -1,5 +1,5 @@
 #summary How to translate Power8
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/Localization GitHub] </font> =
 = Introduction =
 
 Many people want their favorite software be presented in their language. But independent developers (like we) cannot afford hiring team of professionals each time a new version is released.
