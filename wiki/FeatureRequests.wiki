@@ -1,6 +1,6 @@
 #summary Feature requests currently not put on backlog
 #labels Featured
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/FeatureRequests GitHub] </font> =
 = List of ideas and requests we not committed yet =
   * Investigate possibility of overriding more than one Start buttons on Win8+/multimon setup;
   * TBD: Context menu (configurable) for computer list, specific items for each computer item;
