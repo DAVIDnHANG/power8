@@ -1,6 +1,6 @@
 #summary Where downloads will be located
 #labels Featured
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/AboutDOWNLOADS GitHub] </font> =
 = Introduction =
 
 In the beginning of 2014 Google deprecated Downloads feature on .Googlecode.com
