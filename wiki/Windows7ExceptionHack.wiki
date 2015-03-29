@@ -1,5 +1,5 @@
 #summary What to do if Power8 doesn't run on Windows 7.
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/Windows7ExceptionHack GitHub] </font> =
 = Introduction =
 
 There were some reports about issues on Windows 7 where Power8 didn't run correctly. The hack-fix was implemented in version 1.4.1, but it requires manual activation. This page is about how to use it to fix the issue.
