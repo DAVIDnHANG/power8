@@ -1,5 +1,5 @@
 #summary What to do if Power8 shows duplicated icons for Control Panel items.
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/DuplicatedIconsHack GitHub] </font> =
 = Introduction =
 
 There were some reports about issues on Windows 7 and Windows 8.1 where Power8 didn't show Control panel items' icons correctly. The hack-fix was implemented in version 1.4.5, but it requires manual activation. This page is about how to use it to fix the issue.
