@@ -1,6 +1,6 @@
 #summary History of Power8 development/changelog.
 #labels Featured
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/Changelog GitHub] </font> =
 ==Version 1.5.5 Beta (v.1.5.5.838): 01.12.2014==
 ...continue fixing (around 76% of automatically reported crashes is fixed).
 
