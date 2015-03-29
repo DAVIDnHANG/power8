@@ -1,5 +1,6 @@
 #summary Specific features of Power8 described in details
 #labels Featured
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/FeatureDetails GitHub] </font> =
 =Specific features of Power8 described in details=
 
 == Check-for-update ==
