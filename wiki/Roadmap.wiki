@@ -1,6 +1,6 @@
 #summary Page describes when features are planned to be implemented
 #labels Featured
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/Roadmap GitHub] </font> =
 This page shows which features are planned to be implemented in upcoming release.
 
 For all other feature requests, currently not prioritized, please consult [FeatureRequests] page.
