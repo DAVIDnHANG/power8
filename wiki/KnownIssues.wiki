@@ -1,6 +1,6 @@
 #summary Known issues of the project
 #labels Featured
-
+= <font color="red">WARNING! This project has been migrated to [https://github.com/AgentMC/power8/wiki/KnownIssues GitHub] </font> =
 = Introduction =
 
 This is a list of known product issues.
